@@ -1,0 +1,3 @@
+freeclicks=50
+rebirthboost=1
+autoclick=1
